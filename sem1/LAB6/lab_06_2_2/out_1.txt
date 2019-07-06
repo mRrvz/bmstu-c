@@ -1,0 +1,1 @@
+Output: ERROR (3), One of the words is more than 16 symbols.

@@ -1,0 +1,4 @@
+Output:
+string1 no
+string2 no
+string3 no

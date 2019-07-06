@@ -1,0 +1,11 @@
+1) Input: 45
+Output: 1
+2) Input: 13
+Output: 0
+3) Input: 322
+Output: 8
+4) Input: 75
+Output: 2
+5) Input: 99
+Output: 3
+

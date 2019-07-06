@@ -1,0 +1,3 @@
+Input:
+...stringstringstrin  str2
+str

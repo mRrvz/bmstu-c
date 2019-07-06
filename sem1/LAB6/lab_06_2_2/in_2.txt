@@ -1,0 +1,3 @@
+Input:
+stringstringstrin..string1string2;;;;;   string3...string4stringstringstrin..string1string2;;;;;   string3...strstringstringstrin..string1string2;;;;;   string3...string4stringstringstrin..string1string2;;;;;   string3...string4stringstringstrin..string1string2;;;;;   string3...string4ing4
+str1

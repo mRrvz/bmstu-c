@@ -1,0 +1,1 @@
+Output: ERROR (2), one of the strings (or both) is have no words.

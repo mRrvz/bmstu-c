@@ -1,0 +1,14 @@
+1) Input: 2 10
+Output: 1024
+2) Input: 2 -10
+Output: Ошибка
+3) Input: 3 12
+Output: 531441
+4) Input: 15 -1
+Output: Ошибка
+5) Input: 1 1
+Output 1
+6) Input: 12 3
+Output: 1728
+7) Input: 88 4
+Answer: 59969536

@@ -1,0 +1,6 @@
+Input:
+
+
+string1,string2:::string3
+
+strng111,,,,,string2   string3;;;

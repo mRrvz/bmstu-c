@@ -1,0 +1,2 @@
+Output:
+ERROR - no positive numbers

@@ -1,0 +1,8 @@
+Out:
+
+
+string1 no
+
+string2 yes
+
+string3 yes

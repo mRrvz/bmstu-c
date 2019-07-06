@@ -1,0 +1,4 @@
+Output:
+str1 yes
+str2 no
+str3 yes

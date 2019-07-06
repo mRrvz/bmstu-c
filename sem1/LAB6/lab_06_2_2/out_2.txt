@@ -1,0 +1,1 @@
+Output: ERROR (1), one of the strings (or both) more than 256 symbols.

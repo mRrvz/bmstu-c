@@ -1,0 +1,7 @@
+Input
+:
+
+::::str11 string2;;STR3
+
+string1,STR3R!!!!string2
+
