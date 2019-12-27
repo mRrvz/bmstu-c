@@ -1,0 +1,1 @@
+VEGETABLES apple 100 FRUIT tomato 200 VEGETABLE potato 150 nothing COUNT

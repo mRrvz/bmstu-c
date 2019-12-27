@@ -1,0 +1,9 @@
+VEGETABLESapple
+apple
+100
+VEGETABLEpotato
+potato
+150
+FRUITtomato
+tomato
+200

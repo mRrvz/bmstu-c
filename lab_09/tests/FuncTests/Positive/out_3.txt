@@ -1,0 +1,9 @@
+Input number of rows and number of columns: 
+Input elements of matrix: 
+Input number of rows and number of columns: 
+Input elements of matrix: 
+Enter number of degrees for matrix A and matrix B: 
+1 0 0 1 
+0 1 0 1 
+0 0 1 1 
+0 0 0 0 

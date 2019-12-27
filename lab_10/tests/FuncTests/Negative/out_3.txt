@@ -1,0 +1,4 @@
+Enter article: 
+Enter name: 
+Enter count: 
+Invalid enter products.

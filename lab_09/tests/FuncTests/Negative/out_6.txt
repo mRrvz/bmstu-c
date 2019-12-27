@@ -1,0 +1,4 @@
+Input number of rows and number of columns: 
+Input elements of matrix: 
+Input number of rows and number of columns: 
+Invalid matrix input.

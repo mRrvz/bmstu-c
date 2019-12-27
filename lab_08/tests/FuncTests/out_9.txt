@@ -1,0 +1,4 @@
+Enter size of array: 
+Enter elements of array: 
+Enter number P: 
+Invalid input P number.

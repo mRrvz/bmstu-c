@@ -1,0 +1,5 @@
+Enter article: 
+Enter name: 
+Enter count: 
+Count should be >= 0
+Invalid enter products.

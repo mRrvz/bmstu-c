@@ -1,0 +1,4 @@
+Enter size of array: 
+Enter elements of array: 
+Enter number P: 
+19.000000 19.000000 19.000000 19.000000 
