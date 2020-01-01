@@ -4,9 +4,9 @@ clear
 
 for i in {1..9}; do
     echo "TEST $i"
-    ../../app.exe < Positive/in_$i.txt > Positive/outfile.txt 2>&1
+    ../../app.exe < pos/in_$i.txt > pos/outfile.txt 2>&1
 
-    if cmp -s "Positive/out_$i.txt" "Positive/outfile.txt"; then
+    if cmp -s "pos/out_$i.txt" "stockpile.txt"; then
         echo "Positive Test $i OK"
     else
         echo "Positive Test $i FAILED"
@@ -14,11 +14,11 @@ for i in {1..9}; do
     echo
 done
 
-for i in {1..12}; do
+for i in {1..6}; do
     echo "TEST $i"
-    ../../app.exe < Negative/in_$i.txt > Negative/outfile.txt 2>&1
+    ../../app.exe < neg/in_$i.txt > neg/outfile.txt 2>&1
 
-    if cmp -s "Negative/out_$i.txt" "Negative/outfile.txt"; then
+    if cmp -s "neg/out_$i.txt" "neg/outfile.txt"; then
         echo "Negative Test $i OK"
     else
         echo "Negative Test $i FAILED"
