@@ -5,7 +5,6 @@
 #include "struct.h"
 #include "operations.h"
 
-#define FILE_IN_NAME "in.txt"
 #define FILE_OUT_NAME "out.txt"
 
 #define OK 0
